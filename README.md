@@ -1,8 +1,8 @@
 # LinuxCatCommand
-Linux cat command written in C
+Linux cat command written in C/C++
 
 Developer: Benjamin Hodson
-Language: C
+Language: C/C++
 Environment: Vim
 
 Description:
